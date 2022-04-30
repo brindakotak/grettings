@@ -1,0 +1,21 @@
+.greetingDiv{
+
+    border: 1px solid brown;
+    border-radius:5%;
+     margin-top:1%; 
+     margin-bottom: 2%;
+    font-size:6px;
+    height: 10%;
+    width:auto;
+    display: flex;
+    justify-content:center ;
+    align-items:center;
+    background-color:bisque;    
+}
+
+.userInput{
+    margin-top:3%;
+    background-color: bisque;
+    height: 20%;
+    width: 30%;
+}

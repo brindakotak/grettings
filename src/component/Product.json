@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "brand":"3M",
+        "discount":"Less than 10%",
+        "form": "Mask",
+        "usess":"Respiratory Care",
+        "name":"3M 9004IN Particle Respirator Mask",
+        "image":"https://i.ibb.co/8BJhgK2/r6xkegcloxgn5eq8owwg.jpg",
+        "description":"box of 10 masks",
+        "cost":180
+    },
+    {
+        "id":2,
+        "brand":"Vogmask",
+        "discount":"10% and above",
+        "form": "Mask",
+        "usess":"Respiratory Care",
+        "name":"Vogmask Vector Havoc N99CV Mask Large",
+        "image":"https://i.ibb.co/fHQ8JY4/kclatp7d9dt0dwgu4zkq.jpg",
+        "description":"box of 10 masks",
+        "cost":200
+    },
+    {
+        "id":3,
+        "brand":"Faballey",
+        "discount":"10% and above",
+        "form": "Mask",
+        "usess":"Respiratory Care",
+        "name":"Faballey Boota 3 Ply Tie On Balloon Reusable Mask Set",
+        "image":"https://i.ibb.co/wCQQF6F/swa8ycmducwcfdmehhqe.jpg",
+        "description":"box of 20 masks",
+        "cost":380
+    },
+    {
+        "id":4,
+        "brand":"FLOH",
+        "discount":"Less than 10%",
+        "form": "Mask",
+        "usess":"Respiratory Care",
+        "name":"FLOH KN95 Four Layered Air Purifying Particle Respirator Mask",
+        "image":"https://i.ibb.co/MSxXqxj/nwow2gmqjkmrqewkkx6d.png",
+        "description":"box of 10 masks",
+        "cost":222
+    },
+    {
+        "id":5,
+        "brand":"3M",
+        "discount":"20% and above",
+        "form":"Sanitizer",
+        "usess": "Skin Care",
+        "name":"3M Avagard CHG Handrub Hand Sanitizer Antiseptic Solution",
+        "image":"https://i.ibb.co/HpHFygW/vcweesrsrifexmfl55wo.png",
+        "description":"bottle of 200 ml Liquid",
+        "cost":200
+    },
+    {
+        "id":6,
+        "brand":"Dettol",
+        "discount":"Less than 10%",
+        "form":"Liquid",
+        "usess": "Skin Care",
+        "name":"Dettol Original Liquid Handwash",
+        "image":"https://i.ibb.co/tY2xBCG/j4sqs2mbm0k8bolkmoie.jpg",
+        "description":"pump bottle of 200 ml Liquid",
+        "cost":140
+    },
+    {
+        "id":7,
+        "brand":"FLOH",
+        "discount":"30% and above",
+        "form":"Sanitizer",
+        "uses": "Skin Care",
+        "name":"FLOH Sharp Hand Sanitizer Gel",
+        "image":"https://i.ibb.co/3kWY6kf/d0spy2mrd5zdl8kqvrqi.png",
+        "description":"fliptop bottle of 750 ml Sanitizer",
+        "cost":300
+    },
+    {
+        "id":8,
+        "brand":"Lifebuoy",
+        "discount":"Less than 10%",
+        "form":"Sanitizer",
+        "uses": "Skin Care",
+        "name":"Lifebuoy Total Immunity Boosting",
+        "image":"https://i.ibb.co/gdLGpT9/quirhf5d70blu2vopx0i.jpg",
+        "description":"Hand Sanitizer",
+        "cost":80
+    }
+]
